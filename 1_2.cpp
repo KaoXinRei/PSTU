@@ -12,6 +12,6 @@ int main()
 	}
 	else
 	{
-		cout << a / b;
+		cout << (float) a / b;
 	}
 }
